@@ -1,0 +1,19 @@
+img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 30px;
+    
+}
+h1{
+    font-family: initial;
+    color: firebrick;
+}
+p{
+font-family: fantasy;
+color: crimson;
+font-size: 15px;
+}
+h2{
+    font-size: small;
+}
